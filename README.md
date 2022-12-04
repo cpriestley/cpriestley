@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @cpriestley
-- 
-- 👀 I’m interested in ... (COMING SOON)
-- 
+- 🔭 I’m currently working on: websites for local small business owners and completing the Codeup Fullstack Web Developer Bootcamp
 - 🌱 I’m currently learning: Astro, React, Tailwind, Strapi, 
-- 
-- 💞️ I’m looking to collaborate on ...
-- 
+- 💞️ I’m looking to collaborate on monetizable api's
+- 👀 I’m interested in SolidJS 
 - 📫 How to reach me: clayton.priestley@gmail.com
 
 <!---
